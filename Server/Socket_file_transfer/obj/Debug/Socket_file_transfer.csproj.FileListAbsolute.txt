@@ -1,0 +1,14 @@
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.Form2.resources
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.Form3.resources
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.Properties.Resources.resources
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.csproj.GenerateResource.Cache
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\Socket_file_transfer.exe.config
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\Socket_file_transfer.exe
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\Socket_file_transfer.pdb
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\MetroFramework.Design.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\MetroFramework.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\bin\Debug\MetroFramework.Fonts.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.exe
+c:\users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.pdb
+C:\Users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.csprojResolveAssemblyReference.cache
+C:\Users\aayush\documents\visual studio 2015\Projects\Socket_file_transfer\Socket_file_transfer\obj\Debug\Socket_file_transfer.Form4.resources
